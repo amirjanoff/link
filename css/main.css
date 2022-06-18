@@ -1,0 +1,7 @@
+.layout {
+  min-width: 100vh;
+
+}
+.layout__main {
+  flex-grow: 1;
+}
